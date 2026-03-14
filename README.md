@@ -1,4 +1,4 @@
-# uart-verilog-
+# uart-verilog
 UART Transmitter and Receiver implementation using verilog
 # UART Transmitter and Receiver in Verilog
 
